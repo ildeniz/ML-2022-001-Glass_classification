@@ -1,7 +1,7 @@
 # [WIP]ML-2022-001-Glass_classification
 Work in progress.
 
-As a warm up and exercise I picked this a small real data set that requires minumum data cleaning to make EDA and apply some classification models.
+As a warm up and exercise I picked this small real data set that requires minumum data cleaning to make EDA and apply some classification models.
 
 Planned to do:
 - ~~EDA~~
