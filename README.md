@@ -23,7 +23,7 @@ The data set used in this work is obtained from;
 * MinMax scaling has been applied to RI
 
 ## EDA
-* Features RI, Mg, K, Ca, Ba, and Fe were highly; Al and Si were moderately skewed, these features have been normalization.
+* Features RI, Mg, K, Ca, Ba, and Fe were highly; Al and Si were moderately skewed, these features have been normalised.
 * There is a highly positive correlation between RI and Ca. The cause is revealed as Ca is required to make the glass insoluble, but the higher amounts makes a glass prone to devitrification, hence increases the RI levels.
 
 ![alt text](https://github.com/ildeniz/ML-2022-001-Glass_classification/blob/master/oxide%20content%20boxplot.png "The oxide contents BoxPlot")
